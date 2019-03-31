@@ -9,8 +9,7 @@ Libraries used on the sample project
 
 
 ## About
-project  Platzi store with kotlin this is sudent project
-In this project, We have fetched data from our server using Retrofit Library.
+project  Platzi e-reservation this is sudent project.
 
 ## License
 ```
